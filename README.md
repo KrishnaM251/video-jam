@@ -27,11 +27,11 @@ Hopefully, in a few short years, these native dependecies can become accessible 
 
 ## Teck Stack
 * Frontend
-  *React Native
-    *react-navigation
-    *react-native-vector-icons
-*Backend
-  *Node.js
-*Connection Devics
-  *Socket.io
-  *ngrok
+  * React Native
+    * react-navigation
+    * react-native-vector-icons
+* Backend
+  * Node.js
+* Connection Devics
+  * Socket.io
+  * ngrok
