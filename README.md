@@ -25,4 +25,13 @@ https://www.youtube.com/embed/9aDjXUh6AlY
 In order to facilitate real-time audio and visual communication between devices in a room, WebRTC would be used. In fact, there already exists an npm package called "react-native-webrtc" . The catch is that this module is not supported in Expo Go, and would therefore require a development build to run the app. This would require us to install and build our app using and android or ios simulator. As of the last push, I was not able to get either of these simulators running properly on my computer.
 Hopefully, in a few short years, these native dependecies can become accessible through Expo Go itself.
 
-
+## Teck Stack
+* Frontend
+  *React Native
+    *react-navigation
+    *react-native-vector-icons
+*Backend
+  *Node.js
+*Connection Devics
+  *Socket.io
+  *ngrok
