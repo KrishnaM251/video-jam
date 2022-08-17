@@ -18,7 +18,7 @@ Video Jam is a mobile app the enables users to connect to their own unique rooms
 6. Repeat step 5 using other mobile devices to start video jamming!
 
 ## Demo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9aDjXUh6AlY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/9aDjXUh6AlY
 
 ## Future Features
 #### Peer-to-Peer Audio-Visual Streaming
