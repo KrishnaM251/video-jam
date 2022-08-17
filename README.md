@@ -32,6 +32,6 @@ Hopefully, in a few short years, these native dependecies can become accessible 
     * react-native-vector-icons
 * Backend
   * Node.js
-* Connection Devics
+* Misc.
   * Socket.io
   * ngrok
