@@ -7,10 +7,10 @@ Video Jam is a mobile app the enables users to connect to their own unique rooms
 ## Running the App
 
 #### Prerequisites
-*Node.js
-*Expo Cli (for computer)
-*Expo Go (for mobile phone)
-*Ngrok 
+* Node.js
+* Expo Cli (for computer)
+* Expo Go (for mobile phone)
+* Ngrok 
 
 #### Set-up
 1. Open a command prompt, change directory to frontend, run `npm install` (do the same for the backend)
